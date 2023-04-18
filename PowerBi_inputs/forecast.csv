@@ -1,0 +1,178 @@
+PrimaryKey,Value Date,Value Time,ValueDate_Modified,YearMonth,Year,Month,Type,Description,Beneficiary or Cardholder,Amount,Classification,INOUT
+2023-04-2100:00ParallelsPending-180,2023-04-21,00:00,2023-04-21,2023-04,2023,4,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-04-2200:00Apple StoragePending-45,2023-04-22,00:00,2023-04-22,2023-04,2023,4,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-04-2700:00CleaningPending-150,2023-04-27,00:00,2023-04-27,2023-04,2023,4,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-04-2700:00InvestingPending-3000,2023-04-27,00:00,2023-04-27,2023-04,2023,4,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-04-2700:00Notice SavingsPendingnan,2023-04-27,00:00,2023-04-27,2023-04,2023,4,Forecast,Notice Savings,Pending,,Savings,Out
+2023-04-2800:00Apple MusicPending-110,2023-04-28,00:00,2023-04-28,2023-04,2023,4,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-04-2900:00Car licencePending-83,2023-04-29,00:00,2023-04-29,2023-04,2023,4,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-04-2900:00Car servicePending-333,2023-04-29,00:00,2023-04-29,2023-04,2023,4,Forecast,Car service,Pending,-333.0,Car,Out
+2023-04-2900:00RentPending-8000,2023-04-29,00:00,2023-04-29,2023-04,2023,4,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-05-0100:00ElectricityPending-300,2023-05-01,00:00,2023-05-01,2023-05,2023,5,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-05-0100:00DiscoveryInsurePending-1360,2023-05-01,00:00,2023-05-01,2023-05,2023,5,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-05-0100:00VodacomPending-166,2023-05-01,00:00,2023-05-01,2023-05,2023,5,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-05-0100:00Google StoragePending-24,2023-05-01,00:00,2023-05-01,2023-05,2023,5,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-05-0200:00CoolIdeasPending-609,2023-05-02,00:00,2023-05-02,2023-05,2023,5,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-05-0800:00BankingPendingnan,2023-05-08,00:00,2023-05-08,2023-05,2023,5,Forecast,Banking,Pending,,Banking,Out
+2023-05-0900:00Booty by BrettPending0,2023-05-09,00:00,2023-05-09,2023-05,2023,5,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-05-1000:00FantasticalPending-58,2023-05-10,00:00,2023-05-10,2023-05,2023,5,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-05-1000:00AppleWatchPending-275,2023-05-10,00:00,2023-05-10,2023-05,2023,5,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-05-1100:00StravaPending-50,2023-05-11,00:00,2023-05-11,2023-05,2023,5,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-05-1800:00iPhonePending-664.84,2023-05-18,00:00,2023-05-18,2023-05,2023,5,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-05-1800:00MuseScorePending-46,2023-05-18,00:00,2023-05-18,2023-05,2023,5,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-05-2100:00ParallelsPending-180,2023-05-21,00:00,2023-05-21,2023-05,2023,5,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-05-2200:00Apple StoragePending-45,2023-05-22,00:00,2023-05-22,2023-05,2023,5,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-05-2700:00Notice SavingsPendingnan,2023-05-27,00:00,2023-05-27,2023-05,2023,5,Forecast,Notice Savings,Pending,,Savings,Out
+2023-05-2700:00InvestingPending-3000,2023-05-27,00:00,2023-05-27,2023-05,2023,5,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-05-2700:00CleaningPending-150,2023-05-27,00:00,2023-05-27,2023-05,2023,5,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-05-2800:00Apple MusicPending-110,2023-05-28,00:00,2023-05-28,2023-05,2023,5,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-05-2900:00Car servicePending-333,2023-05-29,00:00,2023-05-29,2023-05,2023,5,Forecast,Car service,Pending,-333.0,Car,Out
+2023-05-2900:00RentPending-8000,2023-05-29,00:00,2023-05-29,2023-05,2023,5,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-05-2900:00Car licencePending-83,2023-05-29,00:00,2023-05-29,2023-05,2023,5,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-06-0100:00ElectricityPending-300,2023-06-01,00:00,2023-06-01,2023-06,2023,6,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-06-0100:00Google StoragePending-24,2023-06-01,00:00,2023-06-01,2023-06,2023,6,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-06-0100:00DiscoveryInsurePending-1360,2023-06-01,00:00,2023-06-01,2023-06,2023,6,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-06-0100:00VodacomPending-166,2023-06-01,00:00,2023-06-01,2023-06,2023,6,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-06-0200:00CoolIdeasPending-609,2023-06-02,00:00,2023-06-02,2023-06,2023,6,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-06-0800:00BankingPendingnan,2023-06-08,00:00,2023-06-08,2023-06,2023,6,Forecast,Banking,Pending,,Banking,Out
+2023-06-0900:00Booty by BrettPending0,2023-06-09,00:00,2023-06-09,2023-06,2023,6,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-06-1000:00FantasticalPending-58,2023-06-10,00:00,2023-06-10,2023-06,2023,6,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-06-1000:00AppleWatchPending-275,2023-06-10,00:00,2023-06-10,2023-06,2023,6,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-06-1100:00StravaPending-50,2023-06-11,00:00,2023-06-11,2023-06,2023,6,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-06-1800:00MuseScorePending-46,2023-06-18,00:00,2023-06-18,2023-06,2023,6,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-06-1800:00iPhonePending-664.84,2023-06-18,00:00,2023-06-18,2023-06,2023,6,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-06-2100:00ParallelsPending-180,2023-06-21,00:00,2023-06-21,2023-06,2023,6,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-06-2200:00Apple StoragePending-45,2023-06-22,00:00,2023-06-22,2023-06,2023,6,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-06-2700:00Notice SavingsPendingnan,2023-06-27,00:00,2023-06-27,2023-06,2023,6,Forecast,Notice Savings,Pending,,Savings,Out
+2023-06-2700:00CleaningPending-150,2023-06-27,00:00,2023-06-27,2023-06,2023,6,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-06-2700:00InvestingPending-3000,2023-06-27,00:00,2023-06-27,2023-06,2023,6,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-06-2800:00Apple MusicPending-110,2023-06-28,00:00,2023-06-28,2023-06,2023,6,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-06-2900:00Car servicePending-333,2023-06-29,00:00,2023-06-29,2023-06,2023,6,Forecast,Car service,Pending,-333.0,Car,Out
+2023-06-2900:00Car licencePending-83,2023-06-29,00:00,2023-06-29,2023-06,2023,6,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-06-2900:00RentPending-8000,2023-06-29,00:00,2023-06-29,2023-06,2023,6,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-07-0100:00DiscoveryInsurePending-1360,2023-07-01,00:00,2023-07-01,2023-07,2023,7,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-07-0100:00VodacomPending-166,2023-07-01,00:00,2023-07-01,2023-07,2023,7,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-07-0100:00Google StoragePending-24,2023-07-01,00:00,2023-07-01,2023-07,2023,7,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-07-0100:00ElectricityPending-300,2023-07-01,00:00,2023-07-01,2023-07,2023,7,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-07-0200:00CoolIdeasPending-609,2023-07-02,00:00,2023-07-02,2023-07,2023,7,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-07-0800:00BankingPendingnan,2023-07-08,00:00,2023-07-08,2023-07,2023,7,Forecast,Banking,Pending,,Banking,Out
+2023-07-0900:00Booty by BrettPending0,2023-07-09,00:00,2023-07-09,2023-07,2023,7,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-07-1000:00AppleWatchPending-275,2023-07-10,00:00,2023-07-10,2023-07,2023,7,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-07-1000:00FantasticalPending-58,2023-07-10,00:00,2023-07-10,2023-07,2023,7,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-07-1100:00StravaPending-50,2023-07-11,00:00,2023-07-11,2023-07,2023,7,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-07-1800:00iPhonePending-664.84,2023-07-18,00:00,2023-07-18,2023-07,2023,7,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-07-1800:00MuseScorePending-46,2023-07-18,00:00,2023-07-18,2023-07,2023,7,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-07-2100:00ParallelsPending-180,2023-07-21,00:00,2023-07-21,2023-07,2023,7,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-07-2200:00Apple StoragePending-45,2023-07-22,00:00,2023-07-22,2023-07,2023,7,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-07-2700:00CleaningPending-150,2023-07-27,00:00,2023-07-27,2023-07,2023,7,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-07-2700:00InvestingPending-3000,2023-07-27,00:00,2023-07-27,2023-07,2023,7,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-07-2700:00Notice SavingsPendingnan,2023-07-27,00:00,2023-07-27,2023-07,2023,7,Forecast,Notice Savings,Pending,,Savings,Out
+2023-07-2800:00Apple MusicPending-110,2023-07-28,00:00,2023-07-28,2023-07,2023,7,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-07-2900:00RentPending-8000,2023-07-29,00:00,2023-07-29,2023-07,2023,7,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-07-2900:00Car servicePending-333,2023-07-29,00:00,2023-07-29,2023-07,2023,7,Forecast,Car service,Pending,-333.0,Car,Out
+2023-07-2900:00Car licencePending-83,2023-07-29,00:00,2023-07-29,2023-07,2023,7,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-08-0100:00DiscoveryInsurePending-1360,2023-08-01,00:00,2023-08-01,2023-08,2023,8,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-08-0100:00VodacomPending-166,2023-08-01,00:00,2023-08-01,2023-08,2023,8,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-08-0100:00ElectricityPending-300,2023-08-01,00:00,2023-08-01,2023-08,2023,8,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-08-0100:00Google StoragePending-24,2023-08-01,00:00,2023-08-01,2023-08,2023,8,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-08-0200:00CoolIdeasPending-609,2023-08-02,00:00,2023-08-02,2023-08,2023,8,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-08-0800:00BankingPendingnan,2023-08-08,00:00,2023-08-08,2023-08,2023,8,Forecast,Banking,Pending,,Banking,Out
+2023-08-0900:00Booty by BrettPending0,2023-08-09,00:00,2023-08-09,2023-08,2023,8,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-08-1000:00FantasticalPending-58,2023-08-10,00:00,2023-08-10,2023-08,2023,8,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-08-1000:00AppleWatchPending-275,2023-08-10,00:00,2023-08-10,2023-08,2023,8,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-08-1100:00StravaPending-50,2023-08-11,00:00,2023-08-11,2023-08,2023,8,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-08-1800:00iPhonePending-664.84,2023-08-18,00:00,2023-08-18,2023-08,2023,8,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-08-1800:00MuseScorePending-46,2023-08-18,00:00,2023-08-18,2023-08,2023,8,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-08-2100:00ParallelsPending-180,2023-08-21,00:00,2023-08-21,2023-08,2023,8,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-08-2200:00Apple StoragePending-45,2023-08-22,00:00,2023-08-22,2023-08,2023,8,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-08-2700:00Notice SavingsPendingnan,2023-08-27,00:00,2023-08-27,2023-08,2023,8,Forecast,Notice Savings,Pending,,Savings,Out
+2023-08-2700:00InvestingPending-3000,2023-08-27,00:00,2023-08-27,2023-08,2023,8,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-08-2700:00CleaningPending-150,2023-08-27,00:00,2023-08-27,2023-08,2023,8,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-08-2800:00Apple MusicPending-110,2023-08-28,00:00,2023-08-28,2023-08,2023,8,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-08-2900:00RentPending-8000,2023-08-29,00:00,2023-08-29,2023-08,2023,8,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-08-2900:00Car licencePending-83,2023-08-29,00:00,2023-08-29,2023-08,2023,8,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-08-2900:00Car servicePending-333,2023-08-29,00:00,2023-08-29,2023-08,2023,8,Forecast,Car service,Pending,-333.0,Car,Out
+2023-09-0100:00ElectricityPending-300,2023-09-01,00:00,2023-09-01,2023-09,2023,9,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-09-0100:00VodacomPending-166,2023-09-01,00:00,2023-09-01,2023-09,2023,9,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-09-0100:00Google StoragePending-24,2023-09-01,00:00,2023-09-01,2023-09,2023,9,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-09-0100:00DiscoveryInsurePending-1360,2023-09-01,00:00,2023-09-01,2023-09,2023,9,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-09-0200:00CoolIdeasPending-609,2023-09-02,00:00,2023-09-02,2023-09,2023,9,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-09-0800:00BankingPendingnan,2023-09-08,00:00,2023-09-08,2023-09,2023,9,Forecast,Banking,Pending,,Banking,Out
+2023-09-0900:00Booty by BrettPending0,2023-09-09,00:00,2023-09-09,2023-09,2023,9,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-09-1000:00AppleWatchPending-275,2023-09-10,00:00,2023-09-10,2023-09,2023,9,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-09-1000:00FantasticalPending-58,2023-09-10,00:00,2023-09-10,2023-09,2023,9,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-09-1100:00StravaPending-50,2023-09-11,00:00,2023-09-11,2023-09,2023,9,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-09-1800:00MuseScorePending-46,2023-09-18,00:00,2023-09-18,2023-09,2023,9,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-09-1800:00iPhonePending-664.84,2023-09-18,00:00,2023-09-18,2023-09,2023,9,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-09-2100:00ParallelsPending-180,2023-09-21,00:00,2023-09-21,2023-09,2023,9,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-09-2200:00Apple StoragePending-45,2023-09-22,00:00,2023-09-22,2023-09,2023,9,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-09-2700:00InvestingPending-3000,2023-09-27,00:00,2023-09-27,2023-09,2023,9,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-09-2700:00CleaningPending-150,2023-09-27,00:00,2023-09-27,2023-09,2023,9,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-09-2700:00Notice SavingsPendingnan,2023-09-27,00:00,2023-09-27,2023-09,2023,9,Forecast,Notice Savings,Pending,,Savings,Out
+2023-09-2800:00Apple MusicPending-110,2023-09-28,00:00,2023-09-28,2023-09,2023,9,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-09-2900:00RentPending-8000,2023-09-29,00:00,2023-09-29,2023-09,2023,9,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-09-2900:00Car servicePending-333,2023-09-29,00:00,2023-09-29,2023-09,2023,9,Forecast,Car service,Pending,-333.0,Car,Out
+2023-09-2900:00Car licencePending-83,2023-09-29,00:00,2023-09-29,2023-09,2023,9,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-10-0100:00DiscoveryInsurePending-1360,2023-10-01,00:00,2023-10-01,2023-10,2023,10,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-10-0100:00ElectricityPending-300,2023-10-01,00:00,2023-10-01,2023-10,2023,10,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-10-0100:00Google StoragePending-24,2023-10-01,00:00,2023-10-01,2023-10,2023,10,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-10-0100:00VodacomPending-166,2023-10-01,00:00,2023-10-01,2023-10,2023,10,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-10-0200:00CoolIdeasPending-609,2023-10-02,00:00,2023-10-02,2023-10,2023,10,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-10-0800:00BankingPendingnan,2023-10-08,00:00,2023-10-08,2023-10,2023,10,Forecast,Banking,Pending,,Banking,Out
+2023-10-0900:00Booty by BrettPending0,2023-10-09,00:00,2023-10-09,2023-10,2023,10,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-10-1000:00AppleWatchPending-275,2023-10-10,00:00,2023-10-10,2023-10,2023,10,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-10-1000:00FantasticalPending-58,2023-10-10,00:00,2023-10-10,2023-10,2023,10,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-10-1100:00StravaPending-50,2023-10-11,00:00,2023-10-11,2023-10,2023,10,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-10-1800:00iPhonePending-664.84,2023-10-18,00:00,2023-10-18,2023-10,2023,10,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-10-1800:00MuseScorePending-46,2023-10-18,00:00,2023-10-18,2023-10,2023,10,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-10-2100:00ParallelsPending-180,2023-10-21,00:00,2023-10-21,2023-10,2023,10,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-10-2200:00Apple StoragePending-45,2023-10-22,00:00,2023-10-22,2023-10,2023,10,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-10-2700:00CleaningPending-150,2023-10-27,00:00,2023-10-27,2023-10,2023,10,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-10-2700:00Notice SavingsPendingnan,2023-10-27,00:00,2023-10-27,2023-10,2023,10,Forecast,Notice Savings,Pending,,Savings,Out
+2023-10-2700:00InvestingPending-3000,2023-10-27,00:00,2023-10-27,2023-10,2023,10,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-10-2800:00Apple MusicPending-110,2023-10-28,00:00,2023-10-28,2023-10,2023,10,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-10-2900:00Car licencePending-83,2023-10-29,00:00,2023-10-29,2023-10,2023,10,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-10-2900:00RentPending-8000,2023-10-29,00:00,2023-10-29,2023-10,2023,10,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-10-2900:00Car servicePending-333,2023-10-29,00:00,2023-10-29,2023-10,2023,10,Forecast,Car service,Pending,-333.0,Car,Out
+2023-11-0100:00ElectricityPending-300,2023-11-01,00:00,2023-11-01,2023-11,2023,11,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-11-0100:00Google StoragePending-24,2023-11-01,00:00,2023-11-01,2023-11,2023,11,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-11-0100:00DiscoveryInsurePending-1360,2023-11-01,00:00,2023-11-01,2023-11,2023,11,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-11-0100:00VodacomPending-166,2023-11-01,00:00,2023-11-01,2023-11,2023,11,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-11-0200:00CoolIdeasPending-609,2023-11-02,00:00,2023-11-02,2023-11,2023,11,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-11-0800:00BankingPendingnan,2023-11-08,00:00,2023-11-08,2023-11,2023,11,Forecast,Banking,Pending,,Banking,Out
+2023-11-0900:00Booty by BrettPending0,2023-11-09,00:00,2023-11-09,2023-11,2023,11,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-11-1000:00FantasticalPending-58,2023-11-10,00:00,2023-11-10,2023-11,2023,11,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-11-1000:00AppleWatchPending-275,2023-11-10,00:00,2023-11-10,2023-11,2023,11,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-11-1100:00StravaPending-50,2023-11-11,00:00,2023-11-11,2023-11,2023,11,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-11-1800:00MuseScorePending-46,2023-11-18,00:00,2023-11-18,2023-11,2023,11,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-11-1800:00iPhonePending-664.84,2023-11-18,00:00,2023-11-18,2023-11,2023,11,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-11-2100:00ParallelsPending-180,2023-11-21,00:00,2023-11-21,2023-11,2023,11,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-11-2200:00Apple StoragePending-45,2023-11-22,00:00,2023-11-22,2023-11,2023,11,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-11-2700:00InvestingPending-3000,2023-11-27,00:00,2023-11-27,2023-11,2023,11,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-11-2700:00Notice SavingsPendingnan,2023-11-27,00:00,2023-11-27,2023-11,2023,11,Forecast,Notice Savings,Pending,,Savings,Out
+2023-11-2700:00CleaningPending-150,2023-11-27,00:00,2023-11-27,2023-11,2023,11,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-11-2800:00Apple MusicPending-110,2023-11-28,00:00,2023-11-28,2023-11,2023,11,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-11-2900:00Car servicePending-333,2023-11-29,00:00,2023-11-29,2023-11,2023,11,Forecast,Car service,Pending,-333.0,Car,Out
+2023-11-2900:00RentPending-8000,2023-11-29,00:00,2023-11-29,2023-11,2023,11,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-11-2900:00Car licencePending-83,2023-11-29,00:00,2023-11-29,2023-11,2023,11,Forecast,Car licence,Pending,-83.0,Car,Out
+2023-12-0100:00Google StoragePending-24,2023-12-01,00:00,2023-12-01,2023-12,2023,12,Forecast,Google Storage,Pending,-24.0,Hobbies,Out
+2023-12-0100:00ElectricityPending-300,2023-12-01,00:00,2023-12-01,2023-12,2023,12,Forecast,Electricity,Pending,-300.0,Electricity,Out
+2023-12-0100:00VodacomPending-166,2023-12-01,00:00,2023-12-01,2023-12,2023,12,Forecast,Vodacom,Pending,-166.0,Phone,Out
+2023-12-0100:00DiscoveryInsurePending-1360,2023-12-01,00:00,2023-12-01,2023-12,2023,12,Forecast,DiscoveryInsure,Pending,-1360.0,Insurance,Out
+2023-12-0200:00CoolIdeasPending-609,2023-12-02,00:00,2023-12-02,2023-12,2023,12,Forecast,CoolIdeas,Pending,-609.0,Internet,Out
+2023-12-0800:00BankingPendingnan,2023-12-08,00:00,2023-12-08,2023-12,2023,12,Forecast,Banking,Pending,,Banking,Out
+2023-12-0900:00Booty by BrettPending0,2023-12-09,00:00,2023-12-09,2023-12,2023,12,Forecast,Booty by Brett,Pending,0.0,Fitness,Out
+2023-12-1000:00AppleWatchPending-275,2023-12-10,00:00,2023-12-10,2023-12,2023,12,Forecast,AppleWatch,Pending,-275.0,Fitness,Out
+2023-12-1000:00FantasticalPending-58,2023-12-10,00:00,2023-12-10,2023-12,2023,12,Forecast,Fantastical,Pending,-58.0,Hobbies,Out
+2023-12-1100:00StravaPending-50,2023-12-11,00:00,2023-12-11,2023-12,2023,12,Forecast,Strava,Pending,-50.0,Fitness,Out
+2023-12-1800:00iPhonePending-664.84,2023-12-18,00:00,2023-12-18,2023-12,2023,12,Forecast,iPhone,Pending,-664.84,Phone,Out
+2023-12-1800:00MuseScorePending-46,2023-12-18,00:00,2023-12-18,2023-12,2023,12,Forecast,MuseScore,Pending,-46.0,Hobbies,Out
+2023-12-2100:00ParallelsPending-180,2023-12-21,00:00,2023-12-21,2023-12,2023,12,Forecast,Parallels,Pending,-180.0,Hobbies,Out
+2023-12-2200:00Apple StoragePending-45,2023-12-22,00:00,2023-12-22,2023-12,2023,12,Forecast,Apple Storage,Pending,-45.0,Hobbies,Out
+2023-12-2700:00CleaningPending-150,2023-12-27,00:00,2023-12-27,2023-12,2023,12,Forecast,Cleaning,Pending,-150.0,Cleaning,Out
+2023-12-2700:00InvestingPending-3000,2023-12-27,00:00,2023-12-27,2023-12,2023,12,Forecast,Investing,Pending,-3000.0,Investing,Out
+2023-12-2700:00Notice SavingsPendingnan,2023-12-27,00:00,2023-12-27,2023-12,2023,12,Forecast,Notice Savings,Pending,,Savings,Out
+2023-12-2800:00Apple MusicPending-110,2023-12-28,00:00,2023-12-28,2023-12,2023,12,Forecast,Apple Music,Pending,-110.0,Hobbies,Out
+2023-12-2900:00RentPending-8000,2023-12-29,00:00,2023-12-29,2023-12,2023,12,Forecast,Rent,Pending,-8000.0,Rent,Out
+2023-12-2900:00Car servicePending-333,2023-12-29,00:00,2023-12-29,2023-12,2023,12,Forecast,Car service,Pending,-333.0,Car,Out
+2023-12-2900:00Car licencePending-83,2023-12-29,00:00,2023-12-29,2023-12,2023,12,Forecast,Car licence,Pending,-83.0,Car,Out

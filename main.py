@@ -7,6 +7,7 @@ from ingest_sources import ingest_source_files
 from get_payment_dates import get_payment_dates
 from banking_functions import value_date_modify, date_cols, give_primary_key
 from create_dimDates import create_dimDates
+from get_forecasted_spend import get_forecasted_spend
 import pandas as pd
 import numpy as np
 
@@ -73,3 +74,6 @@ if __name__ == '__main__':
 
     dimDates = create_dimDates(source)
     dimDates.to_csv(banking_path + 'dimDates.csv')
+
+    forecast = get_forecasted_spend(banking_path, dimDates)
+    forecast.to_csv(banking_path + 'forecast.csv')
