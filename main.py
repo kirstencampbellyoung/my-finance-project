@@ -6,13 +6,14 @@
 from ingest_sources import ingest_source_files
 from get_payment_dates import get_payment_dates
 from banking_functions import value_date_modify, date_cols, give_primary_key
+from create_dimDates import create_dimDates
 import pandas as pd
 import numpy as np
 
 banking_path = '/Users/kirsten.young/Library/CloudStorage/GoogleDrive-kirstencyoung@gmail.com/My Drive/' \
-                        'My GoogleDrive/5. Finance/Banking/'
+               'My GoogleDrive/5. Finance/Banking/my-finance-project/PowerBi_inputs/'
 account_path = '/Users/kirsten.young/Library/CloudStorage/GoogleDrive-kirstencyoung@gmail.com/My Drive/' \
-                        'My GoogleDrive/5. Finance/Banking/Accounts/'
+               'My GoogleDrive/5. Finance/Banking/my-finance-project/Raw source files/'
 
 if __name__ == '__main__':
     source = ingest_source_files(account_path)
@@ -69,3 +70,6 @@ if __name__ == '__main__':
     with pd.ExcelWriter(banking_path + "classified.xlsx", engine='openpyxl', date_format='yyyy-mm-dd', mode='a',
                         if_sheet_exists='overlay') as writer:
         final_df.to_excel(writer, sheet_name="classified", startrow=2, header=False)
+
+    dimDates = create_dimDates(source)
+    dimDates.to_csv(banking_path + 'dimDates.csv')

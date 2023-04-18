@@ -2,13 +2,20 @@ from banking_functions import value_date_modify, date_cols
 import pandas as pd
 
 
-def get_payment_dates(source):
+def get_salaries(source):
+
     salary_descriptions = ['CASHFOCUS SALARIS / SALARY', 'PRICE WATEPWC T842', 'PRICE WATEPWC T843']
 
     salary = source[source['Description'].isin(salary_descriptions)]
     salary = salary[['YearMonth', 'Value Date']]
 
     salary.rename(columns={'Value Date': 'Payment Date'}, inplace=True)
+    return salary
+
+
+def get_payment_dates(source):
+
+    salary = get_salaries(source)
 
     source_modified = pd.merge(source, salary, on="YearMonth", how='left').set_axis(source.index)
 
