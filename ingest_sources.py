@@ -3,6 +3,7 @@ import numpy as np
 from banking_functions import give_primary_key
 from banking_functions import date_cols
 
+
 def ingest_source_files(accounts_path):
     CreditCard = pd.read_excel(accounts_path + '112_Credit Card.xlsx', dtype=object)
     CreditCard['Value Date'] = pd.to_datetime(CreditCard['Value Date'], format='%Y-%m-%d')

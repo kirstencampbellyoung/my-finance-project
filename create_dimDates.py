@@ -50,8 +50,6 @@ def create_dimDates(source):
     dimDates['IsCurrentMonth'] = dimDates.apply(lambda x: is_current(x['ValueDate_Modified'], today), axis=1)
     dimDates['AllDisplay'] = dimDates.apply(lambda x: all_display(x['ValueDate_Modified'], today), axis=1)
 
-    print(dimDates[dimDates['IsCurrentMonth'] == True])
-
     return dimDates
 
 
